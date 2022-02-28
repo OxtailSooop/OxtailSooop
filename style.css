@@ -7,8 +7,9 @@
     text-align: center;
 }
 
-.title {
+div.title {
     font-family: 'Montserrat', sans-serif;
     height: 600px;
     width: fit-content;
+    background-color: lightblue;
 }
