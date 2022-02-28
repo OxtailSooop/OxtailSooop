@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/*
+! INDEX:10
+*/
+.center {
+    text-align: center;
+}
+
+.title {
+    font-family: 'Montserrat', sans-serif;
+    height: 600px;
+    width: fit-content;
+}
